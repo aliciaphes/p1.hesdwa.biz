@@ -1,0 +1,36 @@
+body{
+	background: #F2C430
+}
+
+a:hover, a:visited, a:link, a:active{
+	color: #F2F2F0;
+    text-decoration: underline;/*underline link but not change color*/
+}
+
+
+.txt-center{
+	text-align: center;
+}
+
+
+.p1-box{
+	padding: 15px;
+	margin: 5px;
+	font-family: Helvetica, sans-serif;
+}
+
+.content-box{
+	color: #F2F2F0; /*white-ish*/
+	background: #A50C3B;
+}
+
+.title-box{
+	color: #F2F2F0;
+	background: #720829;
+}
+
+
+.hand{/*show that it's a clickable link*/
+	cursor: pointer;
+	cursor: hand;
+}
